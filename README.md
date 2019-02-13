@@ -41,7 +41,7 @@ I did the predictions by using GridSearch method, where I checked which model is
 
 To predict the heart disease, I used approximately 18 different classification models and compared their results to find the best prediction. 
 
-### Imporving the Prediction Accuracy
+### Improving the Prediction Accuracy
 
 After modelling I tested my 2 assumptions. 
 - By choosing the most related columns, we can the prediction scores can increase
