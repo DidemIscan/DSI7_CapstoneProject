@@ -67,9 +67,9 @@ From the analysis, we can see that predicting the missing values can slightly in
 
 ### Next Steps
 
-All in all the project was a success. Next I am planning to increase the accuracy by changing the method of my predicting missing values. I will do the missing value prediction by seperating the data frame into sex, age range, and diseased categories. By that the missing values of each column will be compared in its own category, which can predict the missing values more accuractely.
+All in all the project was a success. Next I am planning to increase the accuracy by changing the method of my predicting missing values. I will do the missing value prediction by separating the data frame into sex, age range, and diseased categories. By that the missing values of each column will be compared in its own category, which can predict the missing values more accurately.
 
-Additionally if I can collect more data from new subjects I can improve my analysis and predict more specific heart diseases. After the disease prediction I can give recommendations for each subject, such as work out, do a diet, see a doctor, take some tests & see the doctor, get medicine, etc. Additionally I can add decsriptions, where subject can understand what these diseases are and how they can proceed in the future. 
+Additionally if I can collect more data from new subjects I can improve my analysis and predict more specific heart diseases. After the disease prediction I can give recommendations for each subject, such as work out, do a diet, see a doctor, take some tests & see the doctor, get medicine, etc. Additionally I can add descriptions, where subject can understand what these diseases are and how they can proceed in the future. 
 
 ### Risks
 
