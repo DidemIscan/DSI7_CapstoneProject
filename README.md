@@ -5,8 +5,8 @@ The aim of this project is to predict Heart Disease with the highest accuracy by
 For the project I combined 4 different datasets, which are from Cleveland, Switzerland, LongBeach, and Hungary. While the datasets were from different places, there were missing values in some features. Thus, after joining the datasets, and cleaning the data, I made an assumption to increase the disease prediction. My assumption was by predicting the missing values my heart disease prediction accuracy can increase. To test this, I build two different data frames, one with dropped missing values and another by predicting the missing values.
 
 You can find the more detailed analysis and report of the project on Jupyter Notebook Files. 
-- [Data Cleaning, Missing Value Prediction and EDA](http://localhost:8888/notebooks/Documents/Projects/DSI7_CapstoneProject/DataCleaning%26MissingValuePrediction%26EDA.ipynb)
-- Modelling, Heart Disease Prediciton, Comparison and Conslusion 
+- [Data Cleaning, Missing Value Prediction and EDA](https://github.com/DidemIscan/DSI7_CapstoneProject/blob/master/DataCleaning%26MissingValuePrediction%26EDA.ipynb)
+- [Modelling, Heart Disease Prediciton, Comparison and Conslusion](https://github.com/DidemIscan/DSI7_CapstoneProject/blob/master/Modelling%26HeartDiseasePrediction.ipynb)
 
 
 ## Predicting Missing Values
