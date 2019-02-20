@@ -1,4 +1,5 @@
-# Heart Disease Prediction with highest accuracy
+<img src="../DSI7_Capstone_Final/Datasets/image.png" width="150" title="# Heart Disease Prediction with highest accuracy"> 
+
 
 The aim of this project is to predict Heart Disease with the highest accuracy by using different machine learning methods.
 
