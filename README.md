@@ -1,6 +1,6 @@
 # Heart Disease Prediction with highest accuracy
 
-<img align="right" width="180" src="../DSI7_CapstoneProject/Datasets/image.png" />
+<img align="right" width="180" src="/Datasets/image.png" />
 
 The aim of this project is to predict Heart Disease with the highest accuracy by using different machine learning methods.
 
