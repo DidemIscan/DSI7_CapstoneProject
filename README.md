@@ -1,9 +1,5 @@
 # Heart Disease Prediction with highest accuracy
 
-<p align="right">
-  <img src="../DSI7_Capstone_Final/Datasets/image.png" width="150">
-</p>
-
 The aim of this project is to predict Heart Disease with the highest accuracy by using different machine learning methods.
 
 For the project I combined 4 different datasets, which are from Cleveland, Switzerland, LongBeach, and Hungary. While the datasets were from different places, there were missing values in some features. Thus, after joining the datasets, and cleaning the data, I made an assumption to increase the disease prediction. My assumption was by predicting the missing values my heart disease prediction accuracy can increase. To test this, I build two different data frames, one with dropped missing values and another by predicting the missing values.
