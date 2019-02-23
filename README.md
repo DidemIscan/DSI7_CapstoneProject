@@ -26,17 +26,24 @@ For both approaches, I predicted heart disease and chose the highest accurate di
 
 To predict the heart disease, I used approximately 18 different classification models and compared their results to find the best prediction. 
 
+<img align="center" width="480" src="/Datasets/GridSearchModelComparison.png" />
 
 ### Improving the Prediction Accuracy
 
 After modelling I tested two different assumptions. 
 - Choosing the most related columns will increase the prediction accuracy scores 
+
+<img align="center" width="480" heaight="240" src="/Datasets/PredictionImprovement.png" />
+
 - Dropping vs Predicting Missing Values  
   
+<img align="center" width="480" src="/Datasets/PredvsDroppedScoresGraph.png" />
   
 ## Conclusion
 
 As a result, predicting the missing values do increase the disease prediction accuracy. Additionally, using different modelling for the dataset will help us see different methods and increase the accuracy of our analysis at the end.
+
+<img align="center" width="480" src="/Datasets/DroppedvsPredScores.png" />
 
 
 ### Next Steps
